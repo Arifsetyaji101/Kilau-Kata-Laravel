@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,3 +18,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('pages.landing.home');
 });
+Route::get('/home', [HomeController::class, 'index'])->name('landing-home');
+Route::get('/products', [ProductController::class, 'index'])->name('landing-product');
