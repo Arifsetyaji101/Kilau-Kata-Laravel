@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="keywords" content="INTUITIVE">
     <meta name="description" content="">
-    <title>Page 1</title>
+    <title>Join Us</title>
     @include('includes.style')
     <link rel="stylesheet" href="{{ url('styles/Join-Us/Join-Us.css') }}" media="screen">
     @include('includes.script')
