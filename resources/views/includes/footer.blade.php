@@ -25,7 +25,7 @@
                             <h6 class="u-custom-font u-text u-text-4">Katalog</h6>
                             <p class="u-custom-font u-small-text u-text u-text-default u-text-variant u-text-5">
                                 <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-hover-none u-none u-text-custom-color-4 u-btn-1"
-                                    href="https://nicepage.com/k/aesthetic-html-templates">
+                                    href="#">
                                     <span style="font-size: 1.3125rem;" class="u-text-custom-color-4">E -
                                         B​ook</span>
                                     <br>
@@ -33,7 +33,7 @@
                             </p>
                             <p class="u-custom-font u-small-text u-text u-text-default u-text-variant u-text-6">
                                 <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-hover-none u-none u-text-custom-color-4 u-btn-2"
-                                    href="https://nicepage.one">
+                                    href="#">
                                     <span style="font-size: 1.3125rem;" class="u-text-custom-color-4">Video
                                         B​ook</span>
                                     <br>
@@ -41,7 +41,7 @@
                             </p>
                             <p class="u-custom-font u-small-text u-text u-text-default u-text-variant u-text-7">
                                 <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-hover-none u-none u-text-custom-color-4 u-btn-3"
-                                    href="https://nicepage.com/c/counter-html-templates">
+                                    href="#">
                                     <span style="font-size: 1.3125rem;" class="u-text-custom-color-4">Audio
                                         B​ook</span>
                                     <br>
@@ -49,7 +49,7 @@
                             </p>
                             <p class="u-custom-font u-small-text u-text u-text-default u-text-variant u-text-8">
                                 <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-hover-none u-none u-text-custom-color-4 u-btn-4"
-                                    href="https://nicepage.site">
+                                    href="#">
                                     <span style="font-size: 1.3125rem;" class="u-text-custom-color-4">Game
                                         Literasi</span>
                                     <br>
@@ -79,14 +79,14 @@
                             <h6 class="u-custom-font u-text u-text-12">Tentang Kami</h6>
                             <p class="u-custom-font u-small-text u-text u-text-default u-text-variant u-text-13">
                                 <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-hover-none u-none u-text-custom-color-4 u-btn-7"
-                                    href="https://website2688523.nicepage.io/Home.html?version=1ceca890-c9fc-4e88-9511-cba13536ea8a">
+                                    href="{{ route('landing-home') }}">
                                     <span style="font-size: 1.3125rem;" class="u-text-custom-color-4">Beranda</span>
                                     <br>
                                 </a>
                             </p>
                             <p class="u-custom-font u-small-text u-text u-text-default u-text-variant u-text-14">
                                 <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-hover-none u-none u-text-palette-1-base u-btn-8"
-                                    href="https://website2688523.nicepage.io/About-Us.html?version=23b51e3b-a463-4024-915e-dfebbbf864ae">
+                                    href="{{ route('landing-join-us') }}">
                                     <span style="font-size: 1.3125rem;" class="u-text-custom-color-4">Kontak
                                         Kami</span>
                                     <br>
