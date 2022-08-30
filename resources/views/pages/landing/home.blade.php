@@ -4,13 +4,13 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="HELLO, CREATOR">
+    <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="theme-color" content="#478ac9">
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
-    <meta name="generator" content="Nicepage 4.17.10, nicepage.com">
-    <title>Home</title>
+    <meta name="generator" content="">
+    <title>Home - Kilau Kata</title>
 
     @include('includes.style')
 
@@ -25,8 +25,8 @@
             "@context": "http://schema.org",
             "@type": "Organization",
             "name": "",
-            "url": "https://website2688523.nicepage.io/Home.html",
-            "logo": "images/logo.png"
+            "url": "",
+            "logo": "{{ url('images/logo.png') }}"
         }
 
     </script>
@@ -42,7 +42,7 @@
     <section class="u-clearfix u-section-2" id="sec-5f19">
         <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
             <div class="u-clearfix u-group-elements u-group-elements-1">
-                <img class="u-image u-image-default u-image-1" src="images/Vector12.svg" alt="" data-image-width="281"
+                <img class="u-image u-image-default u-image-1" src="{{ url('images/Vector12.svg') }}" alt="" data-image-width="281"
                     data-image-height="335">
                 <h1 class="u-custom-font u-text u-text-custom-color-1 u-text-default u-text-1">HELLO</h1>
                 <h1 class="u-custom-font u-text u-text-custom-color-2 u-text-default u-text-2">CREATOR<br>
@@ -235,7 +235,7 @@
                     <div class="u-layout-row">
                         <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-1">
                             <div class="u-container-layout u-container-layout-2">
-                                <img class="u-align-center u-image u-image-default u-image-1" src="images/AboutUs.png"
+                                <img class="u-align-center u-image u-image-default u-image-1" src="{{ url('images/AboutUs.png') }}"
                                     alt="" data-image-width="510" data-image-height="435">
                             </div>
                         </div>

@@ -4,16 +4,16 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="INTUITIVE">
+    <meta name="keywords" content="">
     <meta name="description" content="">
-    <title>Join Us</title>
+    <title>Join Us - Kilau Kata</title>
     @include('includes.style')
     <link rel="stylesheet" href="{{ url('styles/Join-Us/Join-Us.css') }}" media="screen">
     @include('includes.script')
-    <meta name="generator" content="Nicepage 4.17.10, nicepage.com">
+    <meta name="generator" content="">
     <link id="u-theme-google-font" rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
-    <link rel="stylesheet" href="styles/Join-Us.css">
+    <link rel="stylesheet" href="{{ url('styles/Join-Us.css') }}">
 
 
     <script type="application/ld+json">
@@ -21,15 +21,14 @@
             "@context": "http://schema.org",
             "@type": "Organization",
             "name": "",
-            "url": "https://website2688523.nicepage.io/Page-1.html",
-            "logo": "//images01.nicepage.com/3c50cffefc54fff1d4ca03ea/8771af261f2357248023596c/logo.png"
+            "url": "",
+            "logo": "{{ url('images/logo.png') }}"
         }
 
     </script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Page 1">
+    <meta property="og:title" content="Join Us">
     <meta property="og:type" content="website">
-    <link rel="canonical" href="https://website2688523.nicepage.io/Page-1.html">
 
 </head>
 

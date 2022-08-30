@@ -4,16 +4,16 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="PT. TROYA DIGITAL MESAIL">
+    <meta name="keywords" content="">
     <meta name="description" content="">
-    <title>Product</title>
+    <title>Product - Kilau Kata</title>
     @include('includes.style')
     <link rel="stylesheet" href="{{ url('styles/Product/nicepage.css') }}" media="screen">
     <link rel="stylesheet" href="{{ url('styles/Product.css') }}">
     @include('includes.script')
 
     </script>
-    <meta name="generator" content="Nicepage 4.17.10, nicepage.com">
+    <meta name="generator" content="">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -22,15 +22,14 @@
             "@context": "http://schema.org",
             "@type": "Organization",
             "name": "",
-            "url": "https://website2688523.nicepage.io/Product2.html",
-            "logo": "images/logo.png"
+            "url": "",
+            "logo": "{{ url('images/logo.png') }}"
         }
 
     </script>
     <meta name="theme-color" content="#478ac9">
     <meta property="og:title" content="Product">
     <meta property="og:type" content="website">
-    <!-- <link rel="canonical" href="https://website2688523.nicepage.io/Product2.html"> -->
 
 </head>
 
@@ -40,8 +39,7 @@
     <section class="u-clearfix u-section-2" id="sec-cd7a">
         <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-sheet-1">
             <h3 class="u-custom-font u-text u-text-default u-text-1">
-                <a class="u-btn u-button-link u-button-style u-none u-text-black u-btn-1"
-                    href="https://nicepage.best">History<br>
+                <a class="u-btn u-button-link u-button-style u-none u-text-black u-btn-1" href="">History<br>
                 </a>
             </h3>
             <div class="u-border-1 u-border-grey-dark-1 u-expanded-width u-line u-line-horizontal u-line-1"></div>
@@ -56,14 +54,16 @@
                             class="u-container-style u-hidden-sm u-hidden-xs u-layout-cell u-size-1-md u-size-1-sm u-size-1-xs u-size-20-lg u-size-20-xl u-layout-cell-1">
                             <div class="u-container-layout u-valign-bottom u-container-layout-1">
                                 <img class="u-align-center u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-hidden-md u-hidden-sm u-hidden-xs u-image u-image-default u-preserve-proportions u-image-1"
-                                    src="{{ url('images/Service.png') }}" alt="" data-image-width="379" data-image-height="452">
+                                    src="{{ url('images/Service.png') }}" alt="" data-image-width="379"
+                                    data-image-height="452">
                             </div>
                         </div>
                         <div
                             class="u-container-style u-layout-cell u-size-20-lg u-size-20-xl u-size-30-md u-size-30-sm u-size-30-xs u-layout-cell-2">
                             <div class="u-container-layout u-container-layout-2">
                                 <img class="u-image u-image-default u-preserve-proportions u-image-2"
-                                    src="{{ url('images/Publish.png') }}" alt="" data-image-width="202" data-image-height="204">
+                                    src="{{ url('images/Publish.png') }}" alt="" data-image-width="202"
+                                    data-image-height="204">
                                 <div class="u-clearfix u-group-elements u-group-elements-1">
                                     <h3 class="u-align-center u-custom-font u-text u-text-default u-text-5">
                                         <span style="font-weight: 700;">KilauKata</span>
@@ -162,7 +162,8 @@
                         <div class="u-container-layout u-similar-container u-container-layout-2">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-2"
-                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764" data-image-height="1080">
+                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764"
+                                data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-4"> Sejarah Kereta Api</p>
                             <p class="u-custom-font u-text u-text-5"> 35.000 IDR</p>
@@ -187,7 +188,8 @@
                         <div class="u-container-layout u-similar-container u-container-layout-4">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-4"
-                                src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764" data-image-height="1080">
+                                src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764"
+                                data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-8"> Cacing Planaria</p>
                             <p class="u-custom-font u-text u-text-9"> 35.000 IDR</p>
@@ -265,7 +267,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-2">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-2"
-                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764" data-image-height="1080">
+                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764"
+                                data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-4"> Sejarah Kereta Api</p>
                             <p class="u-custom-font u-text u-text-5"> 35.000 IDR</p>
@@ -290,7 +293,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-4">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-4"
-                                src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764" data-image-height="1080">
+                                src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764"
+                                data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-8"> Cacing Planaria</p>
                             <p class="u-custom-font u-text u-text-9"> 35.000 IDR</p>
@@ -368,7 +372,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-2">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-2"
-                                src="{{ url('images/perubahan-energi.jpg') }}" data-image-width="764" data-image-height="1080">
+                                src="{{ url('images/perubahan-energi.jpg') }}" data-image-width="764"
+                                data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-4"> Sejarah Kereta Api</p>
                             <p class="u-custom-font u-text u-text-5"> 35.000 IDR</p>
@@ -393,7 +398,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-3">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-3"
-                                src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764" data-image-height="1080">
+                                src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764"
+                                data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-6"> Dunia Gelap Tanpa Globalisasi</p>
                             <p class="u-custom-font u-text u-text-7"> 35.000 IDR</p>
@@ -444,7 +450,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-3">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-3"
-                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764" data-image-height="1080">
+                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764"
+                                data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-6"> Dunia Gelap Tanpa Globalisasi</p>
                             <p class="u-custom-font u-text u-text-7"> 35.000 IDR</p>
@@ -456,7 +463,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-4">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-4"
-                                src="{{ url('images/bioteknologi-hewan.jpg') }}" data-image-width="764" data-image-height="1080">
+                                src="{{ url('images/bioteknologi-hewan.jpg') }}" data-image-width="764"
+                                data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-8"> Cacing Planaria</p>
                             <p class="u-custom-font u-text u-text-9"> 35.000 IDR</p>
@@ -534,7 +542,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-2">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-2"
-                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764" data-image-height="1080">
+                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764"
+                                data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-4"> Sejarah Kereta Api</p>
                             <p class="u-custom-font u-text u-text-5"> 35.000 IDR</p>
@@ -559,7 +568,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-4">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-4"
-                                src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764" data-image-height="1080">
+                                src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764"
+                                data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-8"> Cacing Planaria</p>
                             <p class="u-custom-font u-text u-text-9"> 35.000 IDR</p>
