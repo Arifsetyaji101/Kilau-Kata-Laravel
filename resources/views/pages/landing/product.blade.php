@@ -153,48 +153,22 @@
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-2"> Perempuan: Sebuah Filsaf​at Penuh
                                 Keraguan</p>
-                            <p class="u-custom-font u-text u-text-3">35.000 IDR</p>
+                            <p class="u-custom-font u-text u-text-3">55.000 IDR</p>
                         </div>
                     </div>
                     <!--/product_item-->
                     <!--product_item-->
-                    <div class="u-align-left u-container-style u-custom-item u-products-item u-repeater-item">
-                        <div class="u-container-layout u-similar-container u-container-layout-2">
-                            <!--product_image-->
-                            <img alt="" class="u-image u-image-default u-product-control u-image-2"
-                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764"
-                                data-image-height="1080">
-                            <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-4"> Sejarah Kereta Api</p>
-                            <p class="u-custom-font u-text u-text-5"> 35.000 IDR</p>
-                        </div>
-                    </div>
-                    <!--/product_item-->
-                    <!--product_item-->
-                    <div class="u-align-left u-container-style u-custom-item u-products-item u-repeater-item">
-                        <div class="u-container-layout u-similar-container u-container-layout-3">
-                            <!--product_image-->
-                            <img alt="" class="u-image u-image-default u-product-control u-image-3"
-                                src="{{ url('images/dunia-gelap-tanpa-globalisasi.jpg') }}" data-image-width="764"
-                                data-image-height="1080">
-                            <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-6"> Dunia Gelap Tanpa Globalisasi</p>
-                            <p class="u-custom-font u-text u-text-7"> 35.000 IDR</p>
-                        </div>
-                    </div>
-                    <!--/product_item-->
-                    <!--product_item-->
-                    <div class="u-align-left u-container-style u-custom-item u-products-item u-repeater-item">
+                    {{-- <div class="u-align-left u-container-style u-custom-item u-products-item u-repeater-item">
                         <div class="u-container-layout u-similar-container u-container-layout-4">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-4"
                                 src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764"
                                 data-image-height="1080">
                             <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-8"> Cacing Planaria</p>
-                            <p class="u-custom-font u-text u-text-9"> 35.000 IDR</p>
+                            <p class="u-custom-font u-custom-item u-text u-text-8"> Buku Edukasi Gizi untuk Anak SD</p>
+                            <p class="u-custom-font u-text u-text-9"> 50.000 IDR</p>
                         </div>
-                    </div>
+                    </div> --}}
                     <!--/product_item-->
                 </div>
                 <a class="u-absolute-vcenter u-gallery-nav u-gallery-nav-prev u-grey-70 u-icon-circle u-opacity u-opacity-70 u-spacing-10 u-text-white u-gallery-nav-1"
@@ -247,95 +221,11 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
             <!--/products_options_json-->
             <div
                 class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-layout-horizontal u-products u-products-1">
-                <div class="u-repeater u-repeater-1">
-                    <!--product_item-->
                     <div class="u-align-left u-container-style u-products-item u-repeater-item">
                         <div class="u-container-layout u-similar-container u-container-layout-1">
-                            <!--product_image-->
-                            <img alt="" class="u-image u-image-default u-product-control u-image-1"
-                                src="{{ url('images/CoverPerempuan-agungWibowodpn-min.png') }}" data-image-width="737"
-                                data-image-height="1080">
-                            <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-2"> Perempuan: Sebuah Filsaf​at Penuh
-                                Keraguan</p>
-                            <p class="u-custom-font u-text u-text-3">35.000 IDR</p>
+                            <p class="u-custom-font u-custom-item u-text u-text-2">Segera Hadir</p>
                         </div>
                     </div>
-                    <!--/product_item-->
-                    <!--product_item-->
-                    <div class="u-align-left u-container-style u-products-item u-repeater-item">
-                        <div class="u-container-layout u-similar-container u-container-layout-2">
-                            <!--product_image-->
-                            <img alt="" class="u-image u-image-default u-product-control u-image-2"
-                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764"
-                                data-image-height="1080">
-                            <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-4"> Sejarah Kereta Api</p>
-                            <p class="u-custom-font u-text u-text-5"> 35.000 IDR</p>
-                        </div>
-                    </div>
-                    <!--/product_item-->
-                    <!--product_item-->
-                    <div class="u-align-left u-container-style u-products-item u-repeater-item">
-                        <div class="u-container-layout u-similar-container u-container-layout-3">
-                            <!--product_image-->
-                            <img alt="" class="u-image u-image-default u-product-control u-image-3"
-                                src="{{ url('images/dunia-gelap-tanpa-globalisasi.jpg') }}" data-image-width="764"
-                                data-image-height="1080">
-                            <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-6"> Dunia Gelap Tanpa Globalisasi</p>
-                            <p class="u-custom-font u-text u-text-7"> 35.000 IDR</p>
-                        </div>
-                    </div>
-                    <!--/product_item-->
-                    <!--product_item-->
-                    <div class="u-align-left u-container-style u-products-item u-repeater-item">
-                        <div class="u-container-layout u-similar-container u-container-layout-4">
-                            <!--product_image-->
-                            <img alt="" class="u-image u-image-default u-product-control u-image-4"
-                                src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764"
-                                data-image-height="1080">
-                            <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-8"> Cacing Planaria</p>
-                            <p class="u-custom-font u-text u-text-9"> 35.000 IDR</p>
-                        </div>
-                    </div>
-                    <!--/product_item-->
-                </div>
-                <a class="u-absolute-vcenter u-gallery-nav u-gallery-nav-prev u-grey-70 u-icon-circle u-opacity u-opacity-70 u-spacing-10 u-text-white u-gallery-nav-1"
-                    href="#" role="button">
-                    <span aria-hidden="true">
-                        <svg viewBox="0 0 451.847 451.847">
-                            <path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
-c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
-c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path>
-                        </svg>
-                    </span>
-                    <span class="sr-only">
-                        <svg viewBox="0 0 451.847 451.847">
-                            <path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
-c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
-c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path>
-                        </svg>
-                    </span>
-                </a>
-                <a class="u-absolute-vcenter u-gallery-nav u-gallery-nav-next u-grey-70 u-icon-circle u-opacity u-opacity-70 u-spacing-10 u-text-white u-gallery-nav-2"
-                    href="#" role="button">
-                    <span aria-hidden="true">
-                        <svg viewBox="0 0 451.846 451.847">
-                            <path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
-L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
-c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path>
-                        </svg>
-                    </span>
-                    <span class="sr-only">
-                        <svg viewBox="0 0 451.846 451.847">
-                            <path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
-L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
-c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path>
-                        </svg>
-                    </span>
-                </a>
             </div>
             <!--/products-->
             <div class="u-border-1 u-border-grey-dark-1 u-expanded-width u-line u-line-horizontal u-line-1"></div>
@@ -358,11 +248,10 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-1">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-1"
-                                src="{{ url('images/CoverPerempuan-agungWibowodpn-min.png') }}" data-image-width="737"
+                                src="{{ url('images/mengapa-mimisan-bisa-terjadi.jpg') }}" data-image-width="737"
                                 data-image-height="1080">
                             <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-2"> Perempuan: Sebuah Filsaf​at Penuh
-                                Keraguan</p>
+                            <p class="u-custom-font u-custom-item u-text u-text-2">Kenapa Mimisan Bisa Terjadi?</p>
                             <p class="u-custom-font u-text u-text-3">35.000 IDR</p>
                         </div>
                     </div>
@@ -372,7 +261,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-2">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-2"
-                                src="{{ url('images/perubahan-energi.jpg') }}" data-image-width="764"
+                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764"
                                 data-image-height="1080">
                             <!--/product_image-->
                             <p class="u-custom-font u-custom-item u-text u-text-4"> Sejarah Kereta Api</p>
@@ -401,7 +290,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                                 src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764"
                                 data-image-height="1080">
                             <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-6"> Dunia Gelap Tanpa Globalisasi</p>
+                            <p class="u-custom-font u-custom-item u-text u-text-6"> Cacing Planaria</p>
                             <p class="u-custom-font u-text u-text-7"> 35.000 IDR</p>
                         </div>
                     </div>
@@ -414,7 +303,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                                 src="{{ url('images/dampak-penggunaan-ac-cutversion.png') }}" data-image-width="764"
                                 data-image-height="1080">
                             <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-6"> Dunia Gelap Tanpa Globalisasi</p>
+                            <p class="u-custom-font u-custom-item u-text u-text-6"> Penggunaan AC Berbahaya Untuk Bumi? Mitos atau Fakta?!</p>
                             <p class="u-custom-font u-text u-text-7"> 35.000 IDR</p>
                         </div>
                     </div>
@@ -427,7 +316,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                                 src="{{ url('images/inilah-yang-terjadi-apabila-setiap-individu-dalam-bangsa-tidak-menerapkan-sila-ketiga-dari-pancasila.jpeg') }}"
                                 data-image-width="764" data-image-height="1080">
                             <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-6"> Dunia Gelap Tanpa Globalisasi</p>
+                            <p class="u-custom-font u-custom-item u-text u-text-6"> Inilah yang Terjadi Apabila Setiap Individu dalam ...</p>
                             <p class="u-custom-font u-text u-text-7"> 35.000 IDR</p>
                         </div>
                     </div>
@@ -437,23 +326,10 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-3">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-3"
-                                src="{{ url('images/mengapa-mimisan-bisa-terjadi.jpg') }}" data-image-width="764"
+                                src="{{ url('images/bioteknologi-hewan.jpg') }}" data-image-width="764"
                                 data-image-height="1080">
                             <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-6"> Dunia Gelap Tanpa Globalisasi</p>
-                            <p class="u-custom-font u-text u-text-7"> 35.000 IDR</p>
-                        </div>
-                    </div>
-                    <!--/product_item-->
-                    <!--product_item-->
-                    <div class="u-align-left u-container-style u-products-item u-repeater-item">
-                        <div class="u-container-layout u-similar-container u-container-layout-3">
-                            <!--product_image-->
-                            <img alt="" class="u-image u-image-default u-product-control u-image-3"
-                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764"
-                                data-image-height="1080">
-                            <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-6"> Dunia Gelap Tanpa Globalisasi</p>
+                            <p class="u-custom-font u-custom-item u-text u-text-6"> Bioteknologi Hewan</p>
                             <p class="u-custom-font u-text u-text-7"> 35.000 IDR</p>
                         </div>
                     </div>
@@ -463,10 +339,10 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-4">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-4"
-                                src="{{ url('images/bioteknologi-hewan.jpg') }}" data-image-width="764"
+                                src="{{ url('images//perubahan-energi.jpg') }}" data-image-width="764"
                                 data-image-height="1080">
                             <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-8"> Cacing Planaria</p>
+                            <p class="u-custom-font u-custom-item u-text u-text-8"> Perubahan Energif</p>
                             <p class="u-custom-font u-text u-text-9"> 35.000 IDR</p>
                         </div>
                     </div>
@@ -528,53 +404,26 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         <div class="u-container-layout u-similar-container u-container-layout-1">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-1"
-                                src="{{ url('images/CoverPerempuan-agungWibowodpn-min.png') }}" data-image-width="737"
+                                src="{{ url('images/toto-the-explorer.png') }}" data-image-width="737"
                                 data-image-height="1080">
                             <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-2"> Perempuan: Sebuah Filsaf​at Penuh
-                                Keraguan</p>
+                            <p class="u-custom-font u-custom-item u-text u-text-2"> Toto the Explorer</p>
                             <p class="u-custom-font u-text u-text-3">35.000 IDR</p>
                         </div>
                     </div>
                     <!--/product_item-->
                     <!--product_item-->
-                    <div class="u-align-left u-container-style u-products-item u-repeater-item">
-                        <div class="u-container-layout u-similar-container u-container-layout-2">
-                            <!--product_image-->
-                            <img alt="" class="u-image u-image-default u-product-control u-image-2"
-                                src="{{ url('images/sejarah-kereta-api.jpg') }}" data-image-width="764"
-                                data-image-height="1080">
-                            <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-4"> Sejarah Kereta Api</p>
-                            <p class="u-custom-font u-text u-text-5"> 35.000 IDR</p>
-                        </div>
-                    </div>
-                    <!--/product_item-->
-                    <!--product_item-->
-                    <div class="u-align-left u-container-style u-products-item u-repeater-item">
-                        <div class="u-container-layout u-similar-container u-container-layout-3">
-                            <!--product_image-->
-                            <img alt="" class="u-image u-image-default u-product-control u-image-3"
-                                src="{{ url('images/dunia-gelap-tanpa-globalisasi.jpg') }}" data-image-width="764"
-                                data-image-height="1080">
-                            <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-6"> Dunia Gelap Tanpa Globalisasi</p>
-                            <p class="u-custom-font u-text u-text-7"> 35.000 IDR</p>
-                        </div>
-                    </div>
-                    <!--/product_item-->
-                    <!--product_item-->
-                    <div class="u-align-left u-container-style u-products-item u-repeater-item">
+                    {{-- <div class="u-align-left u-container-style u-products-item u-repeater-item">
                         <div class="u-container-layout u-similar-container u-container-layout-4">
                             <!--product_image-->
                             <img alt="" class="u-image u-image-default u-product-control u-image-4"
-                                src="{{ url('images/cacing-planaria.jpg') }}" data-image-width="764"
+                                src="{{ url('images//perubahan-energi.jpg') }}" data-image-width="764"
                                 data-image-height="1080">
                             <!--/product_image-->
-                            <p class="u-custom-font u-custom-item u-text u-text-8"> Cacing Planaria</p>
+                            <p class="u-custom-font u-custom-item u-text u-text-8"> Perubahan Energi</p>
                             <p class="u-custom-font u-text u-text-9"> 35.000 IDR</p>
                         </div>
-                    </div>
+                    </div> --}}
                     <!--/product_item-->
                 </div>
                 <a class="u-absolute-vcenter u-gallery-nav u-gallery-nav-prev u-grey-70 u-icon-circle u-opacity u-opacity-70 u-spacing-10 u-text-white u-gallery-nav-1"

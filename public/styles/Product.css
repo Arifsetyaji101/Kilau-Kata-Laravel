@@ -982,9 +982,9 @@ li .social-media .btn-list li {
 }
 
 
-.u-section-5 .u-sheet-1 {
+/* .u-section-5 .u-sheet-1 {
   min-height: 692px;
-}
+} */
 
 .u-section-5 .u-text-1 {
   font-family: NeueHaasDisplayBold;
@@ -1002,9 +1002,9 @@ li .social-media .btn-list li {
   grid-gap: 0px;
 }
 
-.u-section-5 .u-container-layout-1 {
+/* .u-section-5 .u-container-layout-1 {
   padding: 30px 0 1px;
-}
+} */
 
 .u-section-5 .u-image-1 {
   height: 359px;
@@ -1119,9 +1119,9 @@ li .social-media .btn-list li {
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 .u-sheet-1 {
+  /* .u-section-5 .u-sheet-1 {
     min-height: 752px;
-  }
+  } */
 
   .u-section-5 .u-text-1 {
     margin-top: 30px;
@@ -1186,9 +1186,9 @@ li .social-media .btn-list li {
 }
 
 @media (max-width: 991px) {
-  .u-section-5 .u-sheet-1 {
+  /* .u-section-5 .u-sheet-1 {
     min-height: 721px;
-  }
+  } */
 
   .u-section-5 .u-text-1 {
     margin-top: 41px;
@@ -1218,7 +1218,7 @@ li .social-media .btn-list li {
   }
 
   .u-section-5 .u-text-2 {
-    width: 245px;
+    /* width: 245px; */
     margin-left: auto;
     margin-right: auto;
   }
@@ -1970,7 +1970,7 @@ li .social-media .btn-list li {
   width: 800px;
   min-height: 580px;
   height: auto;
-  margin: 85px auto 61px calc(((100% - 1140px) / 2) + 170px);
+  margin: 30px auto 61px calc(((100% - 1140px) / 2) + 170px);
 }
 
 .u-dialog-section-9 .u-container-layout-1 {
@@ -2088,7 +2088,7 @@ li .social-media .btn-list li {
   .u-dialog-section-9 .u-dialog-1 {
     width: 340px;
     min-height: 446px;
-    margin-top: 150px;
+    margin-top: 30px;
   }
 
   .u-dialog-section-9 .u-container-layout-1 {
